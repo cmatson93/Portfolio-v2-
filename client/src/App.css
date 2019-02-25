@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+.App {
+  background-color: #1E2028;
+  height: 100vh;
+  color: #26BBD9;
+}
+
+.content {
+  display: flex;
+  font-family: 'Source Code Pro', monospace;
+}
